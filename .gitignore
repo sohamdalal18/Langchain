@@ -1,0 +1,5 @@
+.env
+.idea/
+f08d6c63-045a-462a-935c-e1b3b30cf253/
+chroma.sqlite3
+faiss_index/
